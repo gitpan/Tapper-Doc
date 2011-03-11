@@ -1,4 +1,4 @@
-.README.swp
+.gitignore
 ChangeLog
 inc/Module/AutoInstall.pm
 inc/Module/Install.pm
@@ -18,13 +18,10 @@ lib/Tapper/Doc/FactSheet.pod
 lib/Tapper/Doc/Start/StepByStep.pod
 LICENSE
 Makefile.PL
-MANIFEST			This list of files
+MANIFEST
 META.yml
 README
 t/00-load.t
 t/boilerplate.t
 t/pod-coverage.t
 t/pod.t
-Tapper-Doc-0.01.tar.gz
-Tapper-Doc-3.000001.tar.gz
-tmp_changelog

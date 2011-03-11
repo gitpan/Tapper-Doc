@@ -1,7 +1,6 @@
 ---
 abstract: 'Tapper - Central documentation hub'
 author:
-  - 'AMD OSRC Tapper Team, C<< <tapper at amd64.org> >>'
   - 'AMD OSRC Tapper Team <tapper@amd64.org>'
 build_requires:
   ExtUtils::MakeMaker: 6.42
@@ -9,7 +8,7 @@ build_requires:
 configure_requires:
   ExtUtils::MakeMaker: 6.42
 distribution_type: module
-generated_by: 'Module::Install version 1.00'
+generated_by: 'Module::Install version 0.91'
 license: freebsd
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.4.html
@@ -19,4 +18,7 @@ no_index:
   directory:
     - inc
     - t
-version: 3.000002
+resources:
+  bugtracker: http://rt.cpan.org/NoAuth/ReportBug.html?Queue=Tapper-Doc
+  repository: git://github.com/amd/Tapper-Doc.git
+version: 3.000004

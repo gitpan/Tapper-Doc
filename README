@@ -4,8 +4,8 @@ Tapper-Doc
 Central documentation hub for Tapper
 
 
-Tapper 
-======
+About Tapper 
+============
 
 Tapper is an infrastructure for all aspects of testing 
 inclusive Operating Systems and Virtualization.
@@ -13,20 +13,21 @@ inclusive Operating Systems and Virtualization.
 Tapper contains
 
  - Automation
- - Scheduling
- - Web Frontend
- - Result Evaluation
- - Testplan Support
+ - Machine Scheduling
+ - Command line utils
+ - Web Frontend application
  - Support for writing tests
- - Many use-cases
+ - Powerful result evaluation API
+ - Testplan support with TaskJuggler
+ - Many use-cases from tracking test results to
+   benchmarking to full OS testing including virtualization
 
-Find more information about Tapper here:
+More information about Tapper:
 
  - https://github.com/amd/Tapper-Doc/
- - https://search.cpan.org/~amd/Tapper-Doc/
+ - http://search.cpan.org/~amd/Tapper-Doc/
 
-Find other Tapper libs here:
+Other Tapper subprojects:
 
  - https://github.com/amd
- - https://search.cpan.org/~amd
-
+ - http://search.cpan.org/~amd
