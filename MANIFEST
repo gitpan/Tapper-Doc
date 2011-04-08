@@ -1,4 +1,3 @@
-.gitignore
 ChangeLog
 inc/Module/AutoInstall.pm
 inc/Module/Install.pm
@@ -12,16 +11,19 @@ inc/Module/Install/Makefile.pm
 inc/Module/Install/Metadata.pm
 inc/Module/Install/Win32.pm
 inc/Module/Install/WriteAll.pm
+lib/auto/Tapper/Doc/presentations/external/yapc/europe/2009/yapc_eu_2009_cinderella_tap.pdf
 lib/Tapper/Doc.pm
 lib/Tapper/Doc.pod
 lib/Tapper/Doc/FactSheet.pod
+lib/Tapper/Doc/Start/PrepareNFSroot.pod
 lib/Tapper/Doc/Start/StepByStep.pod
 LICENSE
+Makefile.old
 Makefile.PL
-MANIFEST
+MANIFEST			This list of files
+MANIFEST.SKIP
 META.yml
 README
 t/00-load.t
-t/boilerplate.t
 t/pod-coverage.t
 t/pod.t
